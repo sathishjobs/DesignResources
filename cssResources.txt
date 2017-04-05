@@ -1,0 +1,6 @@
+.background-sky {
+    background-color: #1976D2;
+    background: -webkit-linear-gradient(305deg,#0D47A1,#42A5F5);
+    background: linear-gradient(145deg,#0D47A1,#42A5F5);
+    color: #fff;
+}
